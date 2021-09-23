@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Button.png</file>
+        <file>Home.png</file>
+        <file>SmallButton.png</file>
+        <file>background_bee.png</file>
+        <file>background_knight.jpg</file>
+        <file>backgroundFaded_bee.png</file>
+        <file>backgroundFaded_knight.png</file>
+        <file>deleteMe.png</file>
+        <file>Grid.png</file>
+        <file>pickup1_bee.png</file>
+        <file>pickup1_knight.png</file>
+        <file>pickup2_bee.png</file>
+        <file>pickup2_knight.png</file>
+        <file>pickup3_bee.png</file>
+        <file>pickup3_knight.png</file>
+        <file>player_bee.png</file>
+        <file>player_knight.png</file>
+        <file>HowToPlayBackground.png</file>
+        <file>background_space.png</file>
+        <file>pickup3_space.png</file>
+        <file>pickup2_space.png</file>
+        <file>pickup1_space.png</file>
+        <file>player_space.png</file>
+        <file>warningBox.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Balonku-Regular.otf</file>
+        <file>Candyshop.otf</file>
+    </qresource>
+</RCC>
